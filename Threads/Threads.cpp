@@ -4,7 +4,8 @@
 using namespace std;
 void Sort(int* begin, int* end) {
     sort(begin, end);
-}
+    cout << "asdnasd";
+}//1231454643
 
 int* DivArr(int* arr, int size) {
     if (size != 8) {
